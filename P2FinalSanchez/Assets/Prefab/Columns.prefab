@@ -274,7 +274,7 @@ GameObject:
   - component: {fileID: 6788990797507293019}
   - component: {fileID: 1731153822807845930}
   m_Layer: 0
-  m_Name: Colums
+  m_Name: Columns
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
